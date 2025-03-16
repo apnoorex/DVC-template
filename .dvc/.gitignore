@@ -1,0 +1,5 @@
+/config.local
+/tmp
+/cache
+/config
+/catboost_info/learn
